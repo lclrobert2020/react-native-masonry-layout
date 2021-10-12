@@ -1,6 +1,7 @@
 ### Because I no longer do development work related to ReactNative, I have no energy to continue to maintain this project. If there are interested people, I am willing to give the corresponding collaborator permissions
 
 # react-native-masonry-layout
+> a forked version of react-native-masonry-layout, fixed the error of flatlist inside scrollview, use virtualized list instead
 
 > An easy to use, pure JS react-native component to render a masonry layout for any item view
 
